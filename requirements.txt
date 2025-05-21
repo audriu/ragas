@@ -1,0 +1,13 @@
+langchain_community
+tiktoken
+langchain-openai
+langchainhub
+chromadb
+langchain
+pypdf
+sentence-transformers
+ollama
+langchain_google_genai
+protobuf==3.20.3
+python-dotenv
+pandas

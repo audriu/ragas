@@ -1,0 +1,11 @@
+Pirkimo ID,Data,Pirkimo objektas,Bendra prašoma suma (su PVM):,Bendra išleista suma (su PVM),Pagrindinės įrangos kaina (su PVM),Papildomų darbų kaina (su PVM):,Įrangos modelis,Tiekėjas,Pirkimo statusas,Pirkimo patvirtinimas
+PI-67890,2022-09-01,Bepiločių orlaivių detekcijos įranga,7600 Eur,7600 Eur,6900 Eur,700 Eur,"""Dronatvarkys 5000""","""DRONAI IR KO""",Baigtas,Vadovybės leidimas suteiktas
+PI-67891,2022-10-15,Apsaugos kamerų sistema,3500 Eur,3450 Eur,3200 Eur,250 Eur,"""SecureView X""","""Stebėjimo Sprendimai""",Vykdomas,Laukiama patvirtinimo
+PI-67892,2023-01-20,Serverio atnaujinimas,12000 Eur,12000 Eur,11500 Eur,500 Eur,"""PowerServer Pro""","""IT Plėtra""",Baigtas,Vadovybės leidimas suteiktas
+PI-67893,2023-03-05,Biuro baldų komplektas,2500 Eur,2500 Eur,2300 Eur,200 Eur,"""ModernOffice""","""Ofiso Įrengimas""",Baigtas,Vadovybės leidimas suteiktas
+PI-67894,2023-05-10,Programinės įrangos licencijos,800 Eur,800 Eur,800 Eur,0 Eur,"""SoftwareSuite 2023""","""Programinės Licencijos""",Baigtas,Vadovybės leidimas suteiktas
+PI-67895,2023-07-22,Naujas kopijavimo aparatas,1500 Eur,1450 Eur,1400 Eur,50 Eur,"""PrintMaster 3000""","""Biuro Technika""",Vykdomas,Laukiama patvirtinimo
+PI-67896,2023-09-01,Oro kondicionavimo sistema,4200 Eur,4200 Eur,3800 Eur,400 Eur,"""ClimateControl Elite""","""Šilumos Sistemos""",Baigtas,Vadovybės leidimas suteiktas
+PI-67897,2023-11-12,Kompiuterių tinklo įranga,6000 Eur,5900 Eur,5500 Eur,400 Eur,"""NetConnect Pro""","""Tinklo Sprendimai""",Vykdomas,Laukiama patvirtinimo
+PI-67898,2024-01-18,Darbuotojų mokymai,1000 Eur,1000 Eur,1000 Eur,0 Eur,N/A,"""Mokymų Centras""",Baigtas,Vadovybės leidimas suteiktas
+PI-67899,2024-03-25,Vaizdo konferencijų įranga,3000 Eur,3000 Eur,2800 Eur,200 Eur,"""MeetingPro HD""","""Konferencijų Sprendimai""",Baigtas,Vadovybės leidimas suteiktas
